@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "764041307155",
+    "project_id": "orvba-4734b",
+    "storage_bucket": "orvba-4734b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764041307155:android:ed03fdb7153add94168be6",
+        "android_client_info": {
+          "package_name": "com.onroadvehicleassistance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764041307155-44q31v9iaclk0k7k7rttkefpbet0um95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHSHj8Shq5ILWTgfLG4RtU7icpKaMegTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764041307155-44q31v9iaclk0k7k7rttkefpbet0um95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

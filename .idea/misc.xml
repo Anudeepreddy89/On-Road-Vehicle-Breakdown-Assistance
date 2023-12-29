@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Rajiv/AndroidStudioProjects/OnRoadVehicleAssistance/app/src/main/res/drawable/custom_button.xml" value="0.1" />
+        <entry key="..\:/Users/Rajiv/AndroidStudioProjects/OnRoadVehicleAssistance/app/src/main/res/drawable/ic_baseline_exit_to_app_24.xml" value="0.1415" />
+        <entry key="..\:/Users/Rajiv/AndroidStudioProjects/OnRoadVehicleAssistance/app/src/main/res/font/amarante.xml" value="0.109375" />
+        <entry key="..\:/Users/Rajiv/AndroidStudioProjects/OnRoadVehicleAssistance/app/src/main/res/layout/activity_admin_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Rajiv/AndroidStudioProjects/OnRoadVehicleAssistance/app/src/main/res/layout/activity_admin_login.xml" value="0.1" />
+        <entry key="..\:/Users/Rajiv/AndroidStudioProjects/OnRoadVehicleAssistance/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Rajiv/AndroidStudioProjects/OnRoadVehicleAssistance/app/src/main/res/layout/activity_mechanic_registration.xml" value="0.15416666666666667" />
+        <entry key="..\:/Users/Rajiv/AndroidStudioProjects/OnRoadVehicleAssistance/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/Users/Rajiv/AndroidStudioProjects/OnRoadVehicleAssistance/app/src/main/res/layout/activity_user_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Rajiv/AndroidStudioProjects/OnRoadVehicleAssistance/app/src/main/res/layout/activity_user_login_registration.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Rajiv/AndroidStudioProjects/OnRoadVehicleAssistance/app/src/main/res/layout/mechanic_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Rajiv/AndroidStudioProjects/OnRoadVehicleAssistance/app/src/main/res/menu/home_menu.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" project-jdk-name="21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
